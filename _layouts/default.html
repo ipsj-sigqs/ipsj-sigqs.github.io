@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <title>SIGQS - {{ page.title }}</title>
+    <link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
+    <style>
+        body {
+            font-family: 'Roboto', 'Hiragino Sans', 'Meiryo', 'Hiragino Kaku Gothic ProN', 'Noto Sans JP', sans-serif;
+        }
+    </style>
+  </head>
+  <body>
+    <header>
+    <h1>情報処理学会 量子ソフトウェア研究会</h1>
+    <p>IPSJ SIG Quantum Software (SIGQS)
+    {% include navigation.html %}
+    </header>
+    {{ content }}
+  </body>
+</html>
