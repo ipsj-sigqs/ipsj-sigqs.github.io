@@ -9,6 +9,7 @@ title: ホーム
 
 ## お知らせ
 
+* 2025/03/16-18: [第203回HPC・第17回QS合同研究発表会](https://www.ipsj.or.jp/kenkyukai/event/hpc203qs17.html) を開催します。
 * 2025/12/22: [第203回HPC・第17回QS合同研究発表会](https://www.ipsj.or.jp/kenkyukai/event/hpc203qs17.html) の発表募集中です。
 
 
