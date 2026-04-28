@@ -9,6 +9,7 @@ title: ホーム
 
 ## お知らせ
 
+* 2026/04/28: [第18回QS研究発表会](https://www.ipsj.or.jp/kenkyukai/event/qs18.html) の発表募集中です。
 * 2025/03/25: 2026年度の発表研究会の予定を記載しました。[こちら](./events.html)をご覧ください。
 * 2025/03/16-18: [第203回HPC・第17回QS合同研究発表会](https://www.ipsj.or.jp/kenkyukai/event/hpc203qs17.html) を開催します。
 * 2025/12/22: [第203回HPC・第17回QS合同研究発表会](https://www.ipsj.or.jp/kenkyukai/event/hpc203qs17.html) の発表募集中です。
