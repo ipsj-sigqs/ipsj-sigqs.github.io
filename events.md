@@ -12,7 +12,7 @@ title: イベント
 * [第20回QS研究発表会]()
   * 時期: 2027年3月7日(日) - 3月9日(火)
   * 場所: 北海道大学（オンライン配信あり）
-* [第19回QS研究発表会]()
+* [第19回QS研究発表会](https://www.ipsj.or.jp/kenkyukai/event/qs19.html)
   * 時期: 2026年11月5日(木) - 11月6日(金)
   * 場所: 立命館大学
 * [第18回QS研究発表会](https://www.ipsj.or.jp/kenkyukai/event/qs18.html)
